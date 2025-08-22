@@ -1,13 +1,13 @@
 # 📜 Certificates Repository
 
-This repository contains all my technical certifications in various fields of software development.
+This repository contains my technical certifications in web development and programming.
 
 ## 🏆 Certificates
 
-- **Java** → [Java Certificate](Java-Certificate.pdf)
-- **HTML** → [HTML Certificate](HTML-Certificate.pdf)
-- **CSS** → [CSS Certificate](CSS-Certificate.pdf)
-- **JavaScript** → [JavaScript Certificate](JavaScript-Certificate.pdf)
+- **Java** → [Programming using Java](java%20certificate.pdf)
+- **HTML5** → [HTML Certificate](Html.pdf)
+- **CSS3** → [CSS Certificate](CSS.pdf)
+- **JavaScript** → [JavaScript Certificate](Js.pdf)
 
 ---
 
